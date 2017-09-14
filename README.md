@@ -1,4 +1,6 @@
-My basic setup
+My basic setup - WIP
 =========================================
 
-Configurar Alfred Workflows: https://github.com/zenorocha/alfred-workflows.
+Download and installs all basic programs that I use.
+
+Alfred Workflows: https://github.com/zenorocha/alfred-workflows.
