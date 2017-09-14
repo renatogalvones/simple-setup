@@ -10,23 +10,19 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew tap phinze/homebrew-cask
 brew install brew-cask ccat git node wget
 
-toinstall=(
-  "alfred"
-  "atom"
-  "firefox"
-  "hyper"
-  "adium"
-  "slack"
-  "google-chrome"
-  "imageoptim"
-  "mysqlworkbench"
-  "skype"
-  "spectacle"
-  "spotify"
-  "virtualbox"
-)
-
-brew cask install $toinstall
+brew cask install alfred
+brew cask install atom
+brew cask install firefox
+brew cask install hyper
+brew cask install adium
+brew cask install slack
+brew cask install google-chrome
+brew cask install imageoptim
+brew cask install mysqlworkbench
+brew cask install skype
+brew cask install spectacle
+brew cask install spotify
+brew cask install virtualbox
 
 
 # fancy diff
