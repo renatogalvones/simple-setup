@@ -10,6 +10,8 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew tap phinze/homebrew-cask
 brew install brew-cask ccat git node wget
 
+brew install watchman
+
 brew cask install alfred
 brew cask install atom
 brew cask install firefox
