@@ -13,19 +13,15 @@ brew install brew-cask ccat git node wget
 brew install watchman
 
 brew cask install alfred
-brew cask install atom
 brew cask install firefox
 brew cask install hyper
-brew cask install adium
 brew cask install slack
 brew cask install google-chrome
 brew cask install imageoptim
 brew cask install mysqlworkbench
-brew cask install skype
 brew cask install spectacle
 brew cask install spotify
 brew cask install virtualbox
-
 
 # fancy diff
 npm install -g diff-so-fancy
